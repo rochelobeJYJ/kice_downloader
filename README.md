@@ -1,6 +1,8 @@
 # KICE Downloader (KICE 기출문제 다운로더) 📥
 
 한국교육과정평가원(KICE) 웹사이트에 등록된 대학수학능력시험 및 6월/9월 모의평가 기출문제(문제지 및 정답지)를 빠르고 간편하게 일괄 다운로드할 수 있는 자동화 데스크톱 애플리케이션입니다.
+<img width="977" height="922" alt="image" src="https://github.com/user-attachments/assets/b67e8a1f-3dd5-431a-9b10-e1e25d34277f" />
+
 
 ## 📌 주요 기능
 
